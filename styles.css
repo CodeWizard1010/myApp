@@ -1,0 +1,48 @@
+#no-button {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    margin-left: 50px;
+
+  }
+
+  #yes-button {
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    margin-right: 50px;
+  }
+  #custom-alert {
+    display: none; 
+    width: 500px;
+    height: 100px;
+    margin-left: 34%;
+    text-align: center;
+    font-size: xx-large;
+    z-index: 1000;
+  }
+
+  .mycontainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+  }
+
+  .buttons-container{
+    margin-top: 5%;
+    margin-left: 40%;
+
+  }
+
+  .anisha{
+    margin-right: 2px;
+  }
+
+  .footer{
+    position: fixed;
+    right: 10px;
+    bottom: 0;
+    margin-left: 5px;
+
+  }
